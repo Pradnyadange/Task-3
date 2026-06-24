@@ -17,3 +17,4 @@ Run the script using:
 py main.py
 ## RESULT
 The neural network achieves high accuracy in detecting symmetry in 6-bit binary numbers after training.
+main.py has implmentation and photo.png has screenshot of result
